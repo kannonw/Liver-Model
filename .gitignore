@@ -1,0 +1,11 @@
+# Python
+/__pycache__
+
+# Dataset
+/data
+/Series_Classification
+/SequenceTypes.csv
+/SeriesClassificationKey.csv
+
+# Model
+/weights
