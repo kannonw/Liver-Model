@@ -9,8 +9,8 @@ from PIL import Image
 import sys
 import numpy as np
 
-import warnings
-warnings.filterwarnings("error")
+# import warnings
+# warnings.filterwarnings("error")
 
 np.set_printoptions(threshold=sys.maxsize)
 
